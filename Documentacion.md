@@ -2,7 +2,7 @@
 
 El objetivo del presente proyecto es presentar una aplicación web que, a través de microservicios, pueda crear, consultar, editar y eliminar usuarios de una base de datos. El proyecto se entregara en 3 avances principales, el tercer y ultimo avance será una aplicación modular que se ejecute en contenedores de docker y así facilitar la administración de dichos módulos
 
-![crud](image/CRUD.PNG)
+
 # Tecnologias usadaas
 
 En el proyecto se emplearan las siguientes tecnologías
